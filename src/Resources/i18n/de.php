@@ -31,6 +31,7 @@ return [
     'rule.ipv4'                   => ':attribute muss eine gültige IPv4-Adresse sein',
     'rule.ipv6'                   => ':attribute muss eine gültige IPv6-Adresse sein',
     'rule.json'                   => ':attribute muss eine gültige Zeichenkette im JSON-Format sein',
+    'rule.length'                 => ':attribute muss eine gültige Zeichenkette mit einer Länge von genau :length Zeichen sein',
     'rule.lowercase'              => ':attribute darf nur Kleinbuchstaben enthalten',
     'rule.max'                    => 'Der größte erlaubte Wert für :attribute ist :max',
     'rule.mimes'                  => 'Der Dateityp von :attribute muss einer der folgenden sein :allowed_types',
